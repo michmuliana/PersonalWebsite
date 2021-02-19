@@ -161,7 +161,7 @@ header{
 }
 
 .nav-link{
-    position: relative; /* This permits the underline effect */
+    position: relative; /* underline effect */
     font-family: "Advent Pro", sans-serif; 
     font-size: 4rem;
     padding: 1rem;
@@ -274,7 +274,6 @@ header{
     font-weight: 300;
     user-select: none;
 }
-
 .social-media{
     margin-top: 3rem;
 }
@@ -812,3 +811,8 @@ input[type="submit"]:hover{
         width: 100%;
     }
 }
+
+/* loader */
+
+
+  
